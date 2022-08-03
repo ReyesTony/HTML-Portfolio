@@ -32,3 +32,7 @@ header {
 p, ul, ol{
   font-family: Roboto, 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
+
+.small-text{
+  font-size: small;
+}
